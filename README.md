@@ -16,8 +16,8 @@ for tea yesterday.
 
 ### Things to do for pro dev
 
-[ ] Need to research
-[ ] Need to write plan
-[ ] Need to do write up
+- [ ] Need to research
+- [ ] Need to write plan
+- [ ] Need to do write up
 
 
